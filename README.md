@@ -155,6 +155,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [sophiebits.com](https://sophiebits.com/)
 - [steveedson.co.uk](https://steveedson.co.uk/)
 - [Simurai](http://simurai.com/)
+- [Sulayman Bowles](https://sulayman-bowles.dev/writing) [[RSS](https://sulayman-bowles.dev/feed.xml)]
 - [Sushi and Robots by Jina Anne](https://www.sushiandrobots.com/)
 - [Suze Shardlow](https://suze.dev/) [[RSS](https://suze.dev/feed.xml)]
 - [Tab Atkins](https://www.xanthir.com/blog/) [[RSS](https://www.xanthir.com/blog/atom/)]
